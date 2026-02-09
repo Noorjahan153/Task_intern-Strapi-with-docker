@@ -18,8 +18,10 @@ What I Did
 
 What I Learned
 
-How to containerize a Node.js application with Docker.
-How to configure environment variables and secrets for Strapi.
-How to troubleshoot common Strapi and Docker build errors.
+* How to containerize a Node.js application with Docker.
+
+* How to configure environment variables and secrets for Strapi.
+
+* How to troubleshoot common Strapi and Docker build errors.
 
 Thank you .
